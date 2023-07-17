@@ -1,6 +1,3 @@
-def mysum():
-    x = 5
-    y = 10
-    
+def mysum(x,y):
     print(x+y)
-mysum()
+mysum(5,10)
