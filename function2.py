@@ -8,7 +8,4 @@ print(x*5)
 
 fname = 'mohammed'
 lname = 'ali'
-
-
-print(f"hello my name is {fname} {lname}")
-
+print(f"hello my name is {fname.upper()} {lname.upper()} ")
